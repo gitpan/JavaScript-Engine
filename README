@@ -1,0 +1,11 @@
+JavaScript::Engine 0.01
+
+This is just a pointer to JE, a pure-Perl ECMAScript
+(JavaScript) engine.
+
+"JE" stands for JavaScript::Engine (following the example of PPI). I
+put this here on the CPAN so that one might be able to  find JE when
+typing "i /javascript/" in the CPAN shell.
+
+The "Makefile.PL" file in this package lists JE as a prerequisite, so
+if you try installing this with CPAN.pm, it will install JE for you.
